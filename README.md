@@ -1,6 +1,6 @@
-# GCM-Seg: Ground Fissure Detection in Mining Areas
+Ground Fissure Detection in Mining Areas
 
-This repository provides the implementation of **GCM-Seg**, a deep learning–based semantic segmentation framework for automatic ground fissure detection in mining areas using high-resolution remote sensing imagery.
+a deep learning–based semantic segmentation framework for automatic ground fissure detection in mining areas using high-resolution remote sensing imagery.
 
 ---
 
